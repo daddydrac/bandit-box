@@ -20,7 +20,7 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * [TensorBoard](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
 * [TensorFlowServing Python API](https://www.tensorflow.org/tfx/guide/serving)
 * [NVIDIA TensorRT inference accelerator and CUDA 10](https://developer.nvidia.com/tensorrt)
-* [PyCUDA 2018.1.1](https://mathema.tician.de/software/pycuda/)
+* [PyCUDA 2019](https://mathema.tician.de/software/pycuda/)
 * [CuPy:latest](https://cupy.chainer.org/)
 * Ubuntu 18.04 so you can 'nix your way through the cmd line!
 * cuDNN7.4.1.5 for deeep learning in CNN's
