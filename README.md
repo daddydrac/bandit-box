@@ -16,6 +16,7 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 ### GPU/TPU Machine Learning & Distributed Pipelines for ultra fast inference
 
 * [Dask Distributed](https://dask.org/) 
+* [Feature Tools](https://docs.featuretools.com/)
 * [TensorFlow for GPU v1.13.1](https://www.tensorflow.org/install/gpu)
 * [TensorBoard](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
 * [TensorFlowServing Python API](https://www.tensorflow.org/tfx/guide/serving)
