@@ -7,7 +7,15 @@ GPU Accelerated computing container for machine learning and NLP, that are repro
 ### BanditBox Features ###
 
 * [Contextual Bandits](https://contextual-bandits.readthedocs.io/en/latest/#installation)
-  Contains working examples in ` apps/* ` of various gradient policy networks, framework handles contectual multi-armed bandits
+  Contains working examples in ` apps/* ` of various gradient policy networks, framework handles contextual multi-armed bandits:
+  
+  Adaptations from multi-armed bandits strategies you can use:
+
+  Upper-confidence Bound 
+  Thompson Sampling 
+  Epsilon Greedy 
+  Adaptive Greedy - Note: Adaptive-Greedy algorithm shows a lot of promise!!
+  Explore-Then-Exploit 
   
 * [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit/wiki)
 Vowpal Wabbit (VW) is a high performance machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. 
