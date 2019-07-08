@@ -34,6 +34,7 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * TensorBoard is on localhost:6006 and GPU enabled Jupyter is on localhost:8888.
 * Python 3.6.7 (Stable & Secure)
 * Only Tesla Pascal and Turing GPU Architecture are supported 
+* NLP capability added with pytesseract and textract
 
 -------------------------------------------------------------
 
