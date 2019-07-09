@@ -1,4 +1,4 @@
-# Run these commands in container to test diff between GPU and CPU
+# Exec into container and run these commands to test diff between GPU and CPU
 # python benchmark.py cpu 10000
 # python benchmark.py gpu 10000
 
