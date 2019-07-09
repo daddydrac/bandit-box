@@ -24,7 +24,7 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * [PyCUDA 2019](https://mathema.tician.de/software/pycuda/): Python interface for direct access to GPU or TPU
 * [CuPy:latest](https://cupy.chainer.org/): GPU accelerated drop in replacement for numpy
 * Ubuntu 18.04 so you can 'nix your way through the cmd line!
-* cuDNN7.4.1.5 for deeep learning in CNN's
+* [cuDNN7.4.1.5 for deeep learning in CNN's](https://developer.nvidia.com/cudnn): GPU-accelerated library of primitives for deep neural networks
 
 ### How else do you plan to serve a model to production?
 * [TensorFlow-serving-api](https://www.tensorflow.org/tfx/guide/serving)
@@ -37,13 +37,13 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * NLP capability added with pytesseract and textract
 * Just to get you going, there are working examples of different types of policy gradient networks located in:
        
-       1.  /apps/policy-gradient-reinforcement-agent/ 
+       1.  [/apps/policy-gradient-reinforcement-agent/]()
        
-       2.  /apps/contextual-policy-gradient/ 
+       2.  [/apps/contextual-policy-gradient/]()
        
-       3.  /apps/policy-network/ 
+       3.  [/apps/policy-network/]()
        
-       4.  /apps/simple-policy/ 
+       4.  [/apps/simple-policy/]()
 
 -------------------------------------------------------------
 
