@@ -21,8 +21,8 @@ def train():
 
   sess = tf.InteractiveSession()
   # Create a multilayer model.
-
   # Input placeholders
+  
   with tf.name_scope('input'):
     x = tf.placeholder(tf.float32, [None, 784], name='x-input')
     y_ = tf.placeholder(tf.float32, [None, 10], name='y-input')
