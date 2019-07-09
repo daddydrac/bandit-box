@@ -15,14 +15,14 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 
 ### GPU/TPU Machine Learning & Distributed Pipelines for ultra fast inference
 
-* [Dask Distributed](https://dask.org/) 
-* [Feature Tools](https://docs.featuretools.com/)
-* [TensorFlow for GPU v1.13.1](https://www.tensorflow.org/install/gpu)
-* [TensorBoard](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
-* [TensorFlowServing Python API](https://www.tensorflow.org/tfx/guide/serving)
-* [NVIDIA TensorRT inference accelerator and CUDA 10](https://developer.nvidia.com/tensorrt)
-* [PyCUDA 2019](https://mathema.tician.de/software/pycuda/)
-* [CuPy:latest](https://cupy.chainer.org/)
+* [Dask Distributed](https://dask.org/): Distributed ingestion of data
+* [Feature Tools](https://docs.featuretools.com/): Automted feature engineering
+* [TensorFlow for GPU v1.13.1](https://www.tensorflow.org/install/gpu): Machine Learning
+* [TensorBoard](https://www.datacamp.com/community/tutorials/tensorboard-tutorial): Understand, debug, and optimize 
+* [TensorFlowServing Python API](https://www.tensorflow.org/tfx/guide/serving): Get to prod with model stability
+* [NVIDIA TensorRT inference accelerator and CUDA 10](https://developer.nvidia.com/tensorrt): CUDA + TPUs makes you awesome
+* [PyCUDA 2019](https://mathema.tician.de/software/pycuda/): Python interface for direct access to GPU or TPU
+* [CuPy:latest](https://cupy.chainer.org/): GPU accelerated drop in replacement for numpy
 * Ubuntu 18.04 so you can 'nix your way through the cmd line!
 * cuDNN7.4.1.5 for deeep learning in CNN's
 
