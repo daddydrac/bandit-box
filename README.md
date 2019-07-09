@@ -35,15 +35,21 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * Python 3.6.7 (Stable & Secure)
 * Only Tesla Pascal and Turing GPU Architecture are supported 
 * NLP capability added with pytesseract and textract
+* Test with synthetic data that compares GPU to CPU benchmark, and Tensorboard example:
+   
+   1. [CPU/GPU Benchmark](https://github.com/joehoeller/bandit-box/blob/master/apps/gpu_benchmarks/benchmark.py)
+   
+   2. [Tensorboard to understand & debug neural networks](https://github.com/joehoeller/bandit-box/blob/master/apps/gpu_benchmarks/tensorboard.py)
+
 * Just to get you going, there are working examples of different types of policy gradient networks located in:
        
-       1.  [/apps/policy-gradient-reinforcement-agent/]()
+    1.  [/apps/policy-gradient-reinforcement-agent/](https://github.com/joehoeller/bandit-box/blob/master/apps/policy-gradient-reinforcement-agent/Model-Network.ipynb)
        
-       2.  [/apps/contextual-policy-gradient/]()
+    2.  [/apps/contextual-policy-gradient/](https://github.com/joehoeller/bandit-box/tree/master/apps/contextual-policy-gradient)
        
-       3.  [/apps/policy-network/]()
+    3.  [/apps/policy-network/](https://github.com/joehoeller/bandit-box/tree/master/apps/policy-network)
        
-       4.  [/apps/simple-policy/]()
+    4.  [/apps/simple-policy/](https://github.com/joehoeller/bandit-box/blob/master/apps/simple-policy/Simple-Policy.ipynb)
 
 -------------------------------------------------------------
 
