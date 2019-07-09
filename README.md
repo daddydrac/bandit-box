@@ -36,9 +36,13 @@ The contextual bandit learning algorithms in VW consist of two broad classes. Th
 * Only Tesla Pascal and Turing GPU Architecture are supported 
 * NLP capability added with pytesseract and textract
 * Just to get you going, there are working examples of different types of policy gradient networks located in:
+
        1. ` /apps/policy-gradient-reinforcement-agent/ `
+       
        2. ` /apps/contextual-policy-gradient/ `
+       
        3. ` /apps/policy-network/ `
+       
        4. ` /apps/simple-policy/ `
 
 -------------------------------------------------------------
